@@ -4,4 +4,8 @@ Compare the file state (modified/added/deleted) in two directories recursively
 
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
 THIS IS A what i can do.
+=======
+THIS IS A what???
+>>>>>>> 965a40462467cfa4112a95a46636de106138ae04
